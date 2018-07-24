@@ -1,0 +1,15 @@
+{
+    "name": "test-topkg",
+    "version": "0.0.0",
+    "esy": {
+        "build": [
+            "true"
+        ]
+    },
+    "dependencies": {
+        "@opam/ocamlfind": "*"
+    },
+    "devDependencies": {
+        "ocaml": "esy-ocaml/ocaml#6aacc05"
+    }
+}
